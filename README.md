@@ -138,6 +138,8 @@ A curated and **opinionated** list of resources for startup founders and leaders
  * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
  * [Negotiate the right deal with suppliers](https://www.infoentrepreneurs.org/en/guides/negotiate-the-right-deal-with-suppliers/)
  * [Strategic Procurements 10 Commandments for Managing the Buying Process](https://strategicdynamicsfirm.com/strategic-procurements-10-commandments-managing-hospital-buying-process/)
+ * [SmartBizCalc — Free Business Financial Calculators](https://smartbizcalc.com) <br>
+   380+ free calculators for startup founders and operators: payroll tax, break-even analysis, employee cost, S-corp tax savings, startup cost, profit margin, LLC vs S-corp comparison, and business loan.
 
 
 ## Books
